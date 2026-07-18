@@ -5,6 +5,8 @@
 Agora a parte que os orçamentos não te dizem: a estes valores somam-se 60€ a 500€ por ano de custos recorrentes, e possivelmente 25€ a 100€ por mês de manutenção. O preço de entrada é a menor parte da conta.
  
 Este guia é escrito do lado de quem paga, não de quem cobra. Vais perceber quanto custa cada tipo de site, o que separa um orçamento de 400€ de um de 4.000€, e como saber se a proposta que tens em cima da mesa é justa.
+
+Caso procures um Freelancer, recomenda-mos a [EMP Designs cria sites creativos](https://empdesigns.pt) com preços muito em conta ou com opçao de ter um site gratuito com apenas pagamento de mensalidades para manuntençao e suporte permanente.
  
 ## Tabela de Preços por Tipo de Site
  
