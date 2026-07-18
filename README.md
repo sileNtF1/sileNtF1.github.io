@@ -221,4 +221,4 @@ Se levares só três coisas deste artigo:
 1. **Compara o custo a três anos, não o preço de entrada.** A manutenção e o alojamento pesam mais do que parece.
 2. **Confirma o que está incluído antes de assinar.** Textos e SEO básico são as duas omissões mais comuns nos orçamentos baratos.
 3. **Regista o domínio em teu nome.** Não importa quem faz o site. O endereço tem de ser teu.
-Se ainda estás na fase anterior a esta, e queres perceber como o processo funciona do início ao fim, temos um guia sobre [como criar um website passo a passo](#).
+Se ainda estás na fase anterior a esta, e queres perceber como o processo funciona do início ao fim, temos um guia sobre [como criar um website passo a passo](https://comocriarwebsites.weebly.com/).
