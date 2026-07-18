@@ -1,3 +1,5 @@
+## Quanto Custa Fazer um Site é a Pergunta mais Frequente
+
 **Fazer um site em Portugal custa entre 350€ e 8.000€.** Um site institucional simples fica entre 350€ e 1.000€ com freelancer. Um site profissional com design próprio e SEO fica entre 2.000€ e 6.000€ em agência. Se fizeres sozinho, gastas entre 110€ e 600€ no primeiro ano.
  
 Agora a parte que os orçamentos não te dizem: a estes valores somam-se 60€ a 500€ por ano de custos recorrentes, e possivelmente 25€ a 100€ por mês de manutenção. O preço de entrada é a menor parte da conta.
